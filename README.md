@@ -1,4 +1,4 @@
-<img src="https://github.com/bdoroshev/bdoroshev/blob/master/banner.jpg" width="100%">
+<img src="https://github.com/bdoroshev/bdoroshev/blob/master/doroshev.jpg" width="100%">
 
 <div align="center">
   <h3>Hello There!<br />My name is Bogdan Doroshev<br />Check what I do below!</h3>
