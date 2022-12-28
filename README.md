@@ -20,27 +20,27 @@
 
 ✅ I’m a passionate Front End / Shopify Developer since 2016. If you need a professional, modern, and responsive Shopify / HTML website – you are in the right place. I work fast and clearly, and I speak and write English fluently, so our communication will be smooth and clear.
 
-💪 I prefer creating Custom Themes for my clients, but if you want me to customize a purchased theme from Themeforest or a similar marketplace, I would love to do that for you too.
+💪 I prefer creating Hydrogen apps for my clients, but I also can create a liquid theme
 
-🥷 Why me
-• Ninja style - the mission will be accomplished, you can just enjoy the delivery and the demos
-• Care about relationships. “Clients for life” and “same boat” approach
-• Close collaboration - the more you're involved the better the result is
-• Deliver 101% results with Agile • Great at remote work with various time zones
-• Fluent in English and learn skills extremely fast
+🥷 Why me <br />
+• Ninja style - the mission will be accomplished, you can just enjoy the delivery and the demos <br />
+• Care about relationships. “Clients for life” and “same boat” approach <br />
+• Close collaboration - the more you're involved the better the result is <br />
+• Deliver 101% results with Agile <br />
+• Great at remote work with various time zones <br />
+• Fluent in English and learn skills extremely fast <br />
 
-🧑‍💻 I cover:
-🚀 Convert PSD, Figma, Sketch, Invision, Adobe XD designs to Shopify or HTML
-🚀 Tailwind CSS
-🚀 Shopify Liquid
-🚀 Custom eCommerce themes ( Shopify, Shopify Theme, ...)
-🚀 Customize checkout process in Shopify Plus
-🚀 Shopify API integration
-🚀 Shopify CLI
-🚀 Git / Github
-🚀 React.js
-🚀 React Native (In learn progress ...)
+🧑‍💻 I cover: <br />
+🚀 Convert PSD, Figma, Sketch, Invision, Adobe XD designs to Shopify or HTML <br />
+🚀 Shopify Liquid <br />
+🚀 Hydrogen <br />
+🚀 Tailwind CSS <br />
+🚀 Customize checkout process in Shopify Plus <br />
+🚀 Shopify API integration <br />
+🚀 Shopify CLI <br />
+🚀 Git / Github <br />
+🚀 TypeScript <br />
+🚀 React.js <br />
+🚀 Next.js <br />
+🚀 React Native (In learn progress ...) <br />
 🚀 Node.js (In learn progress ...)
-🚀 TypeScript (In learn progress ...)
-
-🔥 I am free now to join your team, so contact me using one of the green buttons at the top of the page and we can start making your project great asap
