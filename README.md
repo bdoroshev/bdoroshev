@@ -3,10 +3,6 @@
 <div align="center">
   <h3>Hello There!<br />My name is Bogdan Doroshev<br />Check what I do below!</h3>
   
-  <a href="https://www.youtube.com/channel/UCM6_Blr0nn-Hb7lyKzt1Zgg/">
-    <img src="https://img.shields.io/badge/YouTube-f60456?style=for-the-badge&logo=YouTube&logoColor=white">
-  </a>
-  
   <a href="https://www.upwork.com/freelancers/~01adae76a6fd6cd404/">
     <img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=Upwork&logoColor=white">
   </a>
